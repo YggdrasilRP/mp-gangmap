@@ -1,6 +1,6 @@
 NoPixel Territory map
 ====
-[Live page](https://skyrossm.github.io/np-gangmap/)
+[Live page](https://yggdrasilrp.github.io/mp-gangmap/)
 This interactive (Google) map shows you the location of current NoPixel territory/gang zones.
 
 ## How to submit new locations
